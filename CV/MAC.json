@@ -496,34 +496,6 @@
       },
       {
         "details": {
-          "name": "gvSIG project",
-          "description": "gvSIG is a Geographic Information System (GIS) desktop application designed for capturing, storing, handling, analysing and deploying any kind of referenced geographic information in order to solve complex management and planning problems. gvSIG is known for its user-friendly interface and being able to access all common vector and raster formats. It features a wide range of tools for working with geographic information (query, layout creation, geoprocessing, networks, etc.), which turns gvSIG into the ideal tool for users working in the land realm.\n\n*   Developer of ArcIMS, Oracle and Normalization extenison\n*   Member of the Technical Steering Committee (TSC)\n*   Coordinator of the TSC\n*   Technical collaborations coordinator\n*   Webmaster of the project blog, outreach portal and planet",
-          "URL": "http://www.gvsig.org/"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2022-03-25",
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "gis",
-                "type": "technology"
-              },
-              {
-                "name": "gvsig",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "learnosm",
           "description": "LearnOSM\n\nI coordinated the translation of the [OSM Beginner's guide](http://learnosm.org/en/beginner/) into Spanish with a group of fellows. We used this fork to do all the job that was later pulled to the main repo and [published](http://learnosm.org/es/beginner/) for the general audience.",
           "URL": "https://github.com/geoinquietosvlc/learnosm"
