@@ -600,50 +600,6 @@
       },
       {
         "details": {
-          "name": "Valencian tourist geoportal",
-          "description": "Web mapping applicaiton to browse the Valencian tourist portal, integrated with Google Maps and using a fast search engine.\n\nI was the responsible of the development of the search engine and augmented reality server (Layar).",
-          "URL": "http://www.comunitatvalenciana.com/geoportal"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2022-03-25",
-            "competences": [
-              {
-                "name": "MySQL",
-                "type": "technology"
-              },
-              {
-                "name": "jQuery",
-                "type": "technology"
-              },
-              {
-                "name": "Lucene",
-                "type": "technology"
-              },
-              {
-                "name": "PostGIS",
-                "type": "technology"
-              },
-              {
-                "name": "Google Maps",
-                "type": "technology"
-              },
-              {
-                "name": "kettle",
-                "type": "technology"
-              },
-              {
-                "name": "layar",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "15iacc",
           "description": "Work at the IACC Hackaton\n\nThis project was a small prototype developed during a 2.5 days hackaton in Brasilia (Brazil) at the [15IACC](http://15iacc.org/) conference. My main role was the development of the [website](http://geoinquietosvlc.github.io/15iacc/) that enclosed the 3D visualization and the presentation [slides](http://geoinquietosvlc.github.io/15iacc/slides/index.html#/frontpage) of the idea to the jury.",
           "URL": "https://github.com/geoinquietosvlc/15iacc"
