@@ -631,17 +631,6 @@
         },
         "type": "post",
         "publishingDate": "2011-09-01"
-      },
-      {
-        "details": {
-          "name": "Background",
-          "description": "I'm a cartographer, I love maps on any form but also many other Earth related technologies like GPS, remote sensing, geodesy, etc.\n\nI'm a cartographer and I love Open Data, hence I've been contributing to [OpenStreetMap](http://osm.org) since 2007 not only editing data but also doing workshops, talks and advocacy in general.\n\nI'm a cartographer and I love Open Source, hence I've been collaborating to the [Open Source Geospatial Foundation](http://osgeo.org) (OSGeo) since 2007 in very different areas. I'm charter member of the Foundation since 2008 and active member of the [Spanish Language Local Chapter](http://es.osgeo.org) as well as the small Valencia group called [GeoinquietosVLC](http://valencia.geoinquietos.org).\n\nWhen I'm not doing all this geostuff I love to read, swim, do long walks and when is possible doing also some sailing. I think it would be really hard to me to live far from the sea (or at least a big water body :-)"
-        },
-        "type": "achievement",
-        "publishingDate": "2012-11-01",
-        "tags": [
-          "Background"
-        ]
       }
     ]
   },
