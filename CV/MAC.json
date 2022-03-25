@@ -618,14 +618,6 @@
     "publicArtifacts": [
       {
         "details": {
-          "name": "How to build tile server from Openstreetmap data for beginner?",
-          "URL": "https://gis.stackexchange.com/questions/19837/how-to-build-tile-server-from-openstreetmap-data-for-beginner/19841#19841"
-        },
-        "type": "post",
-        "publishingDate": "2012-02-01"
-      },
-      {
-        "details": {
           "name": "Setting up WMS with PostGIS, MapServer and Apache",
           "URL": "https://gis.stackexchange.com/questions/14987/setting-up-wms-with-postgis-mapserver-and-apache/14988#14988"
         },
