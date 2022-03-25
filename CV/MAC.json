@@ -618,15 +618,6 @@
     "publicArtifacts": [
       {
         "details": {
-          "name": "Geohacking against corruption | geomaticblog — geomaticblog",
-          "description": "Last week I was with three colleges of Prodevelop and other 20 hackers at the 15th Anticorruption Conference in Brasilia. We participated in a four days hackathon working in groups to create web or…",
-          "URL": "http://geomaticblog.net/2012/11/18/geohacking-against-corruption/"
-        },
-        "type": "post",
-        "publishingDate": "2012-11-01"
-      },
-      {
-        "details": {
           "name": "How to build tile server from Openstreetmap data for beginner?",
           "URL": "https://gis.stackexchange.com/questions/19837/how-to-build-tile-server-from-openstreetmap-data-for-beginner/19841#19841"
         },
