@@ -561,38 +561,6 @@
       },
       {
         "details": {
-          "name": "JOSM, TileMill, MapProxy Workshop",
-          "description": "Training materials for a workshop given in an Open Source for Geospatial Spanish conference. In Spanish.\n\nPreparation and lecturing of MapProxy and ImpOSM parts, review with the rest with the other lecturer.",
-          "URL": "https://github.com/geoinquietosvlc/josm-imposm-tilemill-workshop"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2014-02-01",
-            "competences": [
-              {
-                "name": "josm",
-                "type": "technology"
-              },
-              {
-                "name": "imposm",
-                "type": "technology"
-              },
-              {
-                "name": "tilemill",
-                "type": "technology"
-              },
-              {
-                "name": "mapproxy",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "PostGIS Day website",
           "description": "Static website to gather internet activity around the celebration of the PostGIS day.\n\nCoding, layout and most of the content with help of other geofolks.",
           "URL": "https://postgisday.rocks/"
@@ -633,6 +601,21 @@
                 "type": "technology"
               }
             ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "JOSM, TileMill, MapProxy Workshop",
+          "description": "Training materials for a workshop given in an Open Source for Geospatial Spanish conference. In Spanish.\n\nPreparation and lecturing of MapProxy and ImpOSM parts, review with the rest with the other lecturer.",
+          "URL": "https://github.com/geoinquietosvlc/josm-imposm-tilemill-workshop"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-02-01",
+            "finishDate": "2014-02-01"
           }
         ]
       }
