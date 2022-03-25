@@ -614,16 +614,6 @@
           }
         ]
       }
-    ],
-    "publicArtifacts": [
-      {
-        "details": {
-          "name": "Setting up WMS with PostGIS, MapServer and Apache",
-          "URL": "https://gis.stackexchange.com/questions/14987/setting-up-wms-with-postgis-mapserver-and-apache/14988#14988"
-        },
-        "type": "post",
-        "publishingDate": "2011-09-01"
-      }
     ]
   },
   "knowledge": {
