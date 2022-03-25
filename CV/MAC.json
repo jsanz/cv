@@ -644,30 +644,6 @@
       },
       {
         "details": {
-          "name": "2014 PostGIS day site",
-          "description": "Static website to gather internet activity around the celebration of the PostGIS day.\n\nCoding, layout and most of the content with help of other geofolks.",
-          "URL": "https://github.com/geoinquietosvlc/2014.postgisday.rocks"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2014-11-01",
-            "competences": [
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "Bootstrap",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "15iacc",
           "description": "Work at the IACC Hackaton\n\nThis project was a small prototype developed during a 2.5 days hackaton in Brasilia (Brazil) at the [15IACC](http://15iacc.org/) conference. My main role was the development of the [website](http://geoinquietosvlc.github.io/15iacc/) that enclosed the 3D visualization and the presentation [slides](http://geoinquietosvlc.github.io/15iacc/slides/index.html#/frontpage) of the idea to the jury.",
           "URL": "https://github.com/geoinquietosvlc/15iacc"
@@ -712,6 +688,30 @@
               },
               {
                 "name": "mapproxy",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "PostGIS Day website",
+          "description": "Static website to gather internet activity around the celebration of the PostGIS day.\n\nCoding, layout and most of the content with help of other geofolks.",
+          "URL": "https://postgisday.rocks/"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-11-01",
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Bootstrap",
                 "type": "technology"
               }
             ]
