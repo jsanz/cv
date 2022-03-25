@@ -335,46 +335,6 @@
     "projects": [
       {
         "details": {
-          "name": "Antipodes ES/NZ School Map",
-          "description": "Tool for kids and educators from Spain and New Zealand to get in touch. For any school the tool shows their counterpart in the other part of the world.\n\nI developed the front-end of the application with OL3 integrating it with the vizjson produced by the Maps API of CartoDB to load dinamically the layers defined at CartoDB as well as using the SQL API to perform several requests to CartoDB datasets.",
-          "URL": "http://antipodes.decasaalcole.com/"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2022-03-25",
-            "competences": [
-              {
-                "name": "Bootstrap",
-                "type": "technology"
-              },
-              {
-                "name": "SQL",
-                "type": "technology"
-              },
-              {
-                "name": "jQuery",
-                "type": "technology"
-              },
-              {
-                "name": "cartocss",
-                "type": "technology"
-              },
-              {
-                "name": "cartodb",
-                "type": "technology"
-              },
-              {
-                "name": "openlayers-3",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "mapproxy-workshop",
           "description": "MapProxy Workshop\n\nMaterials in Spanish for a 4 hours workshop about [MapProxy](http://geoinquietosvlc.github.io/15iacc/slides/index.html#/frontpage) with complete examples and further ideas to let the user explore the amazing features of this great software.",
           "URL": "https://github.com/geoinquietosvlc/mapproxy-workshop"
@@ -431,6 +391,38 @@
               },
               {
                 "name": "open-source-routing-machine",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Antipodes ES/NZ School Map",
+          "description": "Tool for kids and educators from Spain and New Zealand to get in touch. For any school the tool shows their counterpart in the other part of the world.\n\nI developed the front-end of the application with OL3 integrating it with the vizjson produced by the Maps API of CartoDB to load dinamically the layers defined at CartoDB as well as using the SQL API to perform several requests to CartoDB datasets.",
+          "URL": "http://antipodes.decasaalcole.com/"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-12-01",
+            "competences": [
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              },
+              {
+                "name": "CARTO",
                 "type": "technology"
               }
             ]
