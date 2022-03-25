@@ -618,15 +618,6 @@
     "publicArtifacts": [
       {
         "details": {
-          "name": "Notes from the SotM and FOSS4G 2011 | Prodevelop",
-          "description": "Well I'm at office and I imagine is a good time to try to recap my experience at SotM and FOSS4G events.I arrived at Denver on September 8, the day before SotM started and just a few minutes after I…",
-          "URL": "http://www.prodevelop.es/es/blog/11/09/22/notes-sotm-and-foss4g"
-        },
-        "type": "post",
-        "publishingDate": "2012-11-01"
-      },
-      {
-        "details": {
           "name": "OpenLayers Cookbook | geomaticblog — geomaticblog",
           "description": "I've been honoured to help Antonio to produce this book as a technical reviewer so I owe him at least a short note here (well in fact I promised him to do it!). Having the opportunity to review the…",
           "URL": "http://geomaticblog.net/2012/10/11/openlayers-cookbook/"
