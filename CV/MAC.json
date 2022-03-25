@@ -356,6 +356,39 @@
       },
       {
         "details": {
+          "name": "Antipodes ES/NZ School Map",
+          "description": "Tool for kids and educators from Spain and New Zealand to get in touch. For any school the tool shows their counterpart in the other part of the world.\n\nI developed the front-end of the application with OL3 integrating it with the vizjson produced by the Maps API of CartoDB to load dinamically the layers defined at CartoDB as well as using the SQL API to perform several requests to CartoDB datasets.",
+          "URL": "http://antipodes.decasaalcole.com/"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-12-01",
+            "finishDate": "2014-12-01",
+            "competences": [
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              },
+              {
+                "name": "CARTO",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "De casa al cole",
           "description": "Decision tool for teachers and education workers of the region of Valencia, Spain. The tool orders all education centers (with custom filters) by time travel from user postal code of choice.\n\nThis project was developed during a weekend hackathon with some friends. We developed also a mobile application with Cordova, not published yet.\n\nI processed the travel times using OSRM, configured the CartoDB backend and SQL API calls and the JavaScript glue code with this backend.",
           "URL": "http://decasaalcole.com/",
@@ -396,38 +429,6 @@
               },
               {
                 "name": "PostGIS",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Antipodes ES/NZ School Map",
-          "description": "Tool for kids and educators from Spain and New Zealand to get in touch. For any school the tool shows their counterpart in the other part of the world.\n\nI developed the front-end of the application with OL3 integrating it with the vizjson produced by the Maps API of CartoDB to load dinamically the layers defined at CartoDB as well as using the SQL API to perform several requests to CartoDB datasets.",
-          "URL": "http://antipodes.decasaalcole.com/"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2014-12-01",
-            "competences": [
-              {
-                "name": "Bootstrap",
-                "type": "technology"
-              },
-              {
-                "name": "SQL",
-                "type": "technology"
-              },
-              {
-                "name": "jQuery",
-                "type": "technology"
-              },
-              {
-                "name": "CARTO",
                 "type": "technology"
               }
             ]
