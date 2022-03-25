@@ -521,26 +521,6 @@
       },
       {
         "details": {
-          "name": "learnosm",
-          "description": "LearnOSM\n\nI coordinated the translation of the [OSM Beginner's guide](http://learnosm.org/en/beginner/) into Spanish with a group of fellows. We used this fork to do all the job that was later pulled to the main repo and [published](http://learnosm.org/es/beginner/) for the general audience.",
-          "URL": "https://github.com/geoinquietosvlc/learnosm"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2013-03-01",
-            "competences": [
-              {
-                "name": "CSS",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Geomaticblog",
           "description": "I started the geomatic blog with two friends in 2006 as a place to write about geospatial topics. Over the years the activity has been declining but we still keep it, and recently migrated from Wordpress to Hugo to ensure we can host it easily.",
           "URL": "https://geomaticblog.net"
@@ -556,6 +536,21 @@
                 "type": "technology"
               }
             ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "learnosm",
+          "description": "LearnOSM\n\nI coordinated the translation of the [OSM Beginner's guide](http://learnosm.org/en/beginner/) into Spanish with a group of fellows. We used this fork to do all the job that was later pulled to the main repo and [published](http://learnosm.org/es/beginner/) for the general audience.",
+          "URL": "https://github.com/geoinquietosvlc/learnosm"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2013-03-01",
+            "finishDate": "2015-03-01"
           }
         ]
       },
