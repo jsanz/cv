@@ -1,0 +1,953 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Jorge",
+      "surnames": "Sanz",
+      "title": "Geospatial Enthusiast",
+      "description": "I'm a technologist focused on geospatial topics: physical and digital maps, location services, geospatial databases. I have a strong bias towards Open Source and Open Data and I see myself as a generalist in the geospatial technology world.",
+      "avatar": {
+        "alt": "futurama.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/dad4825f-de6c-474e-a1e1-bc8d84836616_futurama.png"
+      },
+      "location": {
+        "notes": "Aldaia, Valencian Community, Spain"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/jsanz"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/jsanz"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/xurxosanz"
+      },
+      {
+        "type": "other",
+        "URL": "https://stackoverflow.com/users/3647833/jorge-sanz"
+      },
+      {
+        "type": "other",
+        "URL": "http://links.jorgesanz.net"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "First computer",
+        "fact": "PC 8086 but I did my first development on a Casio FX880P calculator."
+      },
+      {
+        "topic": "Sailing",
+        "fact": "I do have a coastal skipper license but haven`t commanded a big boat yet, but I sailed in small boats and large schooners."
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Prodevelop",
+          "image": {
+            "alt": "logo_prode_160x50.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/5db676eb-57bb-4681-aed9-b6cc106ac3cd_logo_prode_160x50.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "GIS Consultant",
+            "startDate": "2006-03-01",
+            "finishDate": "2015-04-30",
+            "challenges": [
+              {
+                "description": "I'm working as a developer and consultant of Geographical Information Systems, specially but not only with gvSIG a Desktop Free Software Project promoted by a Valencian public administration.\n\nI've been related also with web mapping projects to produce Rich Internet Applications.\n\nMy main responsibilities nowadays are analysis and development of server side geospatial components, deployment, etc. I also participate on bids redaction, R&D coordination, company website maintenance and other minor tasks."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "Drupal",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "Lucene",
+                "type": "technology"
+              },
+              {
+                "name": "Geoserver",
+                "type": "technology"
+              },
+              {
+                "name": "openlayers",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Elastic",
+          "image": {
+            "alt": "elastic-logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/e028ad67-c2f2-48c9-82bd-f2cb7fbf6171_elastic-logo.png"
+          },
+          "URL": "https://elastic.co/geospatial"
+        },
+        "roles": [
+          {
+            "name": "Principal Software Engineer",
+            "startDate": "2019-09-01",
+            "challenges": [
+              {
+                "description": "GIS engineer working in the Kibana Maps team and focused in the Elastic Maps Service, but also contributing to Elastic Maps development with testing, feature validation, community outreach, technical writing, and more."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Elasticsearch",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Kibana",
+                "type": "technology"
+              },
+              {
+                "name": "Shell",
+                "type": "technology"
+              },
+              {
+                "name": "MapBox",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CARTO",
+          "image": {
+            "alt": "CARTO",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/64d84f73-5771-42de-be5c-0cc64e81386c_wicsmeh88b0t20k4xrbm.jpg"
+          },
+          "URL": "https://carto.com"
+        },
+        "roles": [
+          {
+            "name": "Solutions Engineer",
+            "startDate": "2015-05-01",
+            "finishDate": "2015-12-31",
+            "challenges": [
+              {
+                "description": "Working as a solutions engineer, I help clients and CARTO partners to get the highest profit of the platform."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "PostGIS",
+                "type": "technology"
+              },
+              {
+                "name": "cartodb",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CARTO",
+          "image": {
+            "alt": "CARTO",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/54ff8c71-180c-41cf-b5db-aa5f6ec7e1e7_wicsmeh88b0t20k4xrbm.jpg"
+          },
+          "URL": "https://carto.com"
+        },
+        "roles": [
+          {
+            "name": "Solutions Engineer and Support manager",
+            "startDate": "2016-01-01",
+            "finishDate": "2019-07-31",
+            "challenges": [
+              {
+                "description": "Managing the Support team and working also at the Engineering and Pre-Sales teams at CARTO Solutions."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "CARTO",
+                "type": "technology"
+              },
+              {
+                "name": "PostGIS",
+                "type": "technology"
+              },
+              {
+                "name": "mapnik",
+                "type": "technology"
+              },
+              {
+                "name": "cartocss",
+                "type": "technology"
+              },
+              {
+                "name": "turbocarto",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "gvSIG Association",
+          "image": {
+            "alt": "download.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/8580d2e1-3eb7-4d14-a6f0-32cdfcf2e2ae_download.jpeg"
+          },
+          "URL": "https://gvsig.com"
+        },
+        "roles": [
+          {
+            "name": "Technical Collaborations Manager",
+            "startDate": "2010-01-01",
+            "finishDate": "2013-01-31",
+            "challenges": [
+              {
+                "description": "Working as booster for the collaborations between the gvSIG community and the gvSIG technical team. My main responsibility was to assure that communication between the technical team and the gvSIG communty was fluent. I was in charge to coordinate the gvSIG participation on the Google Summer of Code for several years.I was also in charge of the incubation of the gvSIG project into the OSGeo foundation."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Polithecnic University of Valencia",
+          "image": {
+            "alt": "download.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/9cb8b7b0-9521-497e-8f14-3abaf7f0a538_download.png"
+          },
+          "URL": "http://upv.es"
+        },
+        "roles": [
+          {
+            "name": "Researcher",
+            "startDate": "2004-02-01",
+            "finishDate": "2006-02-28",
+            "challenges": [
+              {
+                "description": "I made several works as a researcher with GIS and Local Administrations and Health Departments trying to understand the different workflows those organizations have related with geospatial information, and how to improve them.\n\nI was lecturer of the Open Source [UMN MapServer](http://mapserver.org/) in several post graduate courses held by the University. Thanks to this lectures, the [first book on MapServer](http://books.google.es/books?id=9orb_liy184C&hl=es&source=gbs_navlinks_s) was published in 2005."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Antipodes ES/NZ School Map",
+          "description": "Tool for kids and educators from Spain and New Zealand to get in touch. For any school the tool shows their counterpart in the other part of the world.\n\nI developed the front-end of the application with OL3 integrating it with the vizjson produced by the Maps API of CartoDB to load dinamically the layers defined at CartoDB as well as using the SQL API to perform several requests to CartoDB datasets.",
+          "URL": "http://antipodes.decasaalcole.com/"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-03-25",
+            "competences": [
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              },
+              {
+                "name": "cartocss",
+                "type": "technology"
+              },
+              {
+                "name": "cartodb",
+                "type": "technology"
+              },
+              {
+                "name": "openlayers-3",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "mapproxy-workshop",
+          "description": "MapProxy Workshop\n\nMaterials in Spanish for a 4 hours workshop about [MapProxy](http://geoinquietosvlc.github.io/15iacc/slides/index.html#/frontpage) with complete examples and further ideas to let the user explore the amazing features of this great software.",
+          "URL": "https://github.com/geoinquietosvlc/mapproxy-workshop"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2012-12-01",
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "De casa al cole",
+          "description": "Decision tool for teachers and education workers of the region of Valencia, Spain. The tool orders all education centers (with custom filters) by time travel from user postal code of choice.\n\nThis project was developed during a weekend hackathon with some friends. We developed also a mobile application with Cordova, not published yet.\n\nI processed the travel times using OSRM, configured the CartoDB backend and SQL API calls and the JavaScript glue code with this backend.",
+          "URL": "http://decasaalcole.com/"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-03-25",
+            "competences": [
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "Cordova",
+                "type": "technology"
+              },
+              {
+                "name": "Leaflet",
+                "type": "technology"
+              },
+              {
+                "name": "S3",
+                "type": "technology"
+              },
+              {
+                "name": "cartodb",
+                "type": "technology"
+              },
+              {
+                "name": "openstreetmap",
+                "type": "technology"
+              },
+              {
+                "name": "open-source-routing-machine",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "2008 Climate visualization",
+          "description": "Visualization of climate data for 2008, using modern webmapping technologies and techniques developed as a personal weekend/hackathon like project.\n\nSolo project",
+          "URL": "http://climate-viz.jorgesanz.net/"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-03-25",
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "D3",
+                "type": "technology"
+              },
+              {
+                "name": "Leaflet",
+                "type": "technology"
+              },
+              {
+                "name": "Jekyll",
+                "type": "technology"
+              },
+              {
+                "name": "cartodb",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "opengeo-workshops",
+          "description": "Workshop materials for the Open Source Oportunities in GIS Summer School 2013\n\nThose materials are adapted from awesome [OpenGeo materials](http://workshops.opengeo.org/) for the Girona Summer school. I worked with a colleague to adapt and lecture a group with a really diverse background on geospatial techs",
+          "URL": "https://github.com/jsanz/opengeo-workshops"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2013-07-01",
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "gvSIG project",
+          "description": "gvSIG is a Geographic Information System (GIS) desktop application designed for capturing, storing, handling, analysing and deploying any kind of referenced geographic information in order to solve complex management and planning problems. gvSIG is known for its user-friendly interface and being able to access all common vector and raster formats. It features a wide range of tools for working with geographic information (query, layout creation, geoprocessing, networks, etc.), which turns gvSIG into the ideal tool for users working in the land realm.\n\n*   Developer of ArcIMS, Oracle and Normalization extenison\n*   Member of the Technical Steering Committee (TSC)\n*   Coordinator of the TSC\n*   Technical collaborations coordinator\n*   Webmaster of the project blog, outreach portal and planet",
+          "URL": "http://www.gvsig.org/"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-03-25",
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "gis",
+                "type": "technology"
+              },
+              {
+                "name": "gvsig",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "OSGeo-Live",
+          "description": "OSGeo-Live is a self-contained bootable DVD, USB thumb drive or Virtual Machine based on Xubuntu, that allows you to try a wide variety of open source geospatial software without installing anything. It is composed entirely of free software, allowing it to be freely distributed, duplicated and passed around.\n\nIt provides pre-configured applications for a range of geospatial use cases, including storage, publishing, viewing, analysis and manipulation of data. It also contains sample datasets and documentation.\n\nI work with two roles on this project:\n\n*   As the gvSIG package maintainer\n*   As one of the Spanish translation effort coordinator",
+          "URL": "http://live.osgeo.org/"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-03-25",
+            "competences": [
+              {
+                "name": "Debian",
+                "type": "technology"
+              },
+              {
+                "name": "gis",
+                "type": "technology"
+              },
+              {
+                "name": "osgeo",
+                "type": "technology"
+              },
+              {
+                "name": "xubuntu",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "gvSIG",
+          "description": "gvSIG is a Geographic Information System (GIS) desktop application designed for capturing, storing, handling, analysing and deploying any kind of referenced geographic information in order to solve complex management and planning problems. gvSIG is known for its user-friendly interface and being able to access all common vector and raster formats. It features a wide range of tools for working with geographic information (query, layout creation, geoprocessing, networks, etc.), which turns gvSIG into the ideal tool for users working in the land realm.\n\ngvSIG is a big project. I started as an analyst/developer of some gvSIG extensions and afterwards moved to a more organizational role, working as a coordinator of the Technical Steering Committee, and the technical collaborations area.",
+          "URL": "http://www.gvsig.org/web"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-03-25",
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "gis",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "learnosm",
+          "description": "LearnOSM\n\nI coordinated the translation of the [OSM Beginner's guide](http://learnosm.org/en/beginner/) into Spanish with a group of fellows. We used this fork to do all the job that was later pulled to the main repo and [published](http://learnosm.org/es/beginner/) for the general audience.",
+          "URL": "https://github.com/geoinquietosvlc/learnosm"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2013-03-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Valencian tourist geoportal",
+          "description": "Web mapping applicaiton to browse the Valencian tourist portal, integrated with Google Maps and using a fast search engine.\n\nI was the responsible of the development of the search engine and augmented reality server (Layar).",
+          "URL": "http://www.comunitatvalenciana.com/geoportal"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-03-25",
+            "competences": [
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              },
+              {
+                "name": "Lucene",
+                "type": "technology"
+              },
+              {
+                "name": "PostGIS",
+                "type": "technology"
+              },
+              {
+                "name": "Google Maps",
+                "type": "technology"
+              },
+              {
+                "name": "kettle",
+                "type": "technology"
+              },
+              {
+                "name": "layar",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "2014 PostGIS day site",
+          "description": "Static website to gather internet activity around the celebration of the PostGIS day.\n\nCoding, layout and most of the content with help of other geofolks.",
+          "URL": "https://github.com/geoinquietosvlc/2014.postgisday.rocks"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-11-01",
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "15iacc",
+          "description": "Work at the IACC Hackaton\n\nThis project was a small prototype developed during a 2.5 days hackaton in Brasilia (Brazil) at the [15IACC](http://15iacc.org/) conference. My main role was the development of the [website](http://geoinquietosvlc.github.io/15iacc/) that enclosed the 3D visualization and the presentation [slides](http://geoinquietosvlc.github.io/15iacc/slides/index.html#/frontpage) of the idea to the jury.",
+          "URL": "https://github.com/geoinquietosvlc/15iacc"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2012-11-01",
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "JOSM, TileMill, MapProxy Workshop",
+          "description": "Training materials for a workshop given in an Open Source for Geospatial Spanish conference. In Spanish.\n\nPreparation and lecturing of MapProxy and ImpOSM parts, review with the rest with the other lecturer.",
+          "URL": "https://github.com/geoinquietosvlc/josm-imposm-tilemill-workshop"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-02-01",
+            "competences": [
+              {
+                "name": "josm",
+                "type": "technology"
+              },
+              {
+                "name": "imposm",
+                "type": "technology"
+              },
+              {
+                "name": "tilemill",
+                "type": "technology"
+              },
+              {
+                "name": "mapproxy",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "antipodes-map",
+          "description": "Repository with the data and code for the antipodes school map",
+          "URL": "https://github.com/geoinquietosvlc/antipodes-map"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-10-01",
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Notes from the SotM and FOSS4G 2011 | Prodevelop",
+          "description": "Well I'm at office and I imagine is a good time to try to recap my experience at SotM and FOSS4G events.I arrived at Denver on September 8, the day before SotM started and just a few minutes after I…",
+          "URL": "http://www.prodevelop.es/es/blog/11/09/22/notes-sotm-and-foss4g"
+        },
+        "type": "post",
+        "publishingDate": "2012-11-01"
+      },
+      {
+        "details": {
+          "name": "Is it possible to render POIs/landmarks from Postgres/postgis DB using google Map like icons?",
+          "URL": "https://gis.stackexchange.com/questions/86831/is-it-possible-to-render-pois-landmarks-from-postgres-postgis-db-using-google-ma/86887#86887"
+        },
+        "type": "post",
+        "publishingDate": "2014-02-01"
+      },
+      {
+        "details": {
+          "name": "OpenLayers Cookbook | geomaticblog — geomaticblog",
+          "description": "I've been honoured to help Antonio to produce this book as a technical reviewer so I owe him at least a short note here (well in fact I promised him to do it!). Having the opportunity to review the…",
+          "URL": "http://geomaticblog.net/2012/10/11/openlayers-cookbook/"
+        },
+        "type": "post",
+        "publishingDate": "2012-11-01"
+      },
+      {
+        "details": {
+          "name": "World coverage in OpenLayers 2?",
+          "URL": "https://gis.stackexchange.com/questions/73158/world-coverage-in-openlayers-2/73243#73243"
+        },
+        "type": "post",
+        "publishingDate": "2013-10-01"
+      },
+      {
+        "details": {
+          "name": "Geohacking against corruption | geomaticblog — geomaticblog",
+          "description": "Last week I was with three colleges of Prodevelop and other 20 hackers at the 15th Anticorruption Conference in Brasilia. We participated in a four days hackathon working in groups to create web or…",
+          "URL": "http://geomaticblog.net/2012/11/18/geohacking-against-corruption/"
+        },
+        "type": "post",
+        "publishingDate": "2012-11-01"
+      },
+      {
+        "details": {
+          "name": "How to build tile server from Openstreetmap data for beginner?",
+          "URL": "https://gis.stackexchange.com/questions/19837/how-to-build-tile-server-from-openstreetmap-data-for-beginner/19841#19841"
+        },
+        "type": "post",
+        "publishingDate": "2012-02-01"
+      },
+      {
+        "details": {
+          "name": "pgAdmin vs psql",
+          "URL": "https://gis.stackexchange.com/questions/90478/pgadmin-vs-psql/90495#90495"
+        },
+        "type": "post",
+        "publishingDate": "2014-03-01"
+      },
+      {
+        "details": {
+          "name": "Setting up WMS with PostGIS, MapServer and Apache",
+          "URL": "https://gis.stackexchange.com/questions/14987/setting-up-wms-with-postgis-mapserver-and-apache/14988#14988"
+        },
+        "type": "post",
+        "publishingDate": "2011-09-01"
+      },
+      {
+        "details": {
+          "name": "Notes about the Open Source Oportunities in GIS Summer School | Prodevelop",
+          "description": "Last week Alberto Romeu and me had the pleasure to participate at the fourth edition of this summer school organized by the GIS and Remote Sensing department of the University of Girona. This is the…",
+          "URL": "http://www.prodevelop.es/es/blog/13/07/16/open-source-oportunities-gis-summer-school"
+        },
+        "type": "post",
+        "publishingDate": "2012-11-01"
+      },
+      {
+        "details": {
+          "name": "Background",
+          "description": "I'm a cartographer, I love maps on any form but also many other Earth related technologies like GPS, remote sensing, geodesy, etc.\n\nI'm a cartographer and I love Open Data, hence I've been contributing to [OpenStreetMap](http://osm.org) since 2007 not only editing data but also doing workshops, talks and advocacy in general.\n\nI'm a cartographer and I love Open Source, hence I've been collaborating to the [Open Source Geospatial Foundation](http://osgeo.org) (OSGeo) since 2007 in very different areas. I'm charter member of the Foundation since 2008 and active member of the [Spanish Language Local Chapter](http://es.osgeo.org) as well as the small Valencia group called [GeoinquietosVLC](http://valencia.geoinquietos.org).\n\nWhen I'm not doing all this geostuff I love to read, swim, do long walks and when is possible doing also some sailing. I think it would be really hard to me to live far from the sea (or at least a big water body :-)"
+        },
+        "type": "achievement",
+        "publishingDate": "2012-11-01",
+        "tags": [
+          "Background"
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "M.S.E. in Geodesy and Cartography",
+        "startDate": "2001-01-01",
+        "finishDate": "2004-01-01",
+        "institution": {
+          "name": "Polytechnic University of Valencia",
+          "description": "",
+          "image": {
+            "alt": "download.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/a243dfbc-fda0-45e9-aee2-4e634a158a68_download.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "ArcGIS",
+            "type": "technology"
+          },
+          {
+            "name": "Autocad",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Basic",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "Matlab",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "B.S.E. in Surveying",
+        "startDate": "1997-01-01",
+        "finishDate": "2000-01-01",
+        "institution": {
+          "name": "Universidad Politécnica de Valencia",
+          "description": "",
+          "image": {
+            "alt": "download.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/9fe3df5f-2248-4ca2-8536-eeb578e62592_download.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Autocad",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://linkedin.com/in/jsanz"
+        },
+        {
+          "type": "other",
+          "URL": "https://stackoverflow.com/users/3647833/jorge-sanz"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "SQL",
+          "type": "technology"
+        },
+        {
+          "name": "PostgreSQL",
+          "type": "technology"
+        },
+        {
+          "name": "PostGIS",
+          "type": "technology"
+        },
+        {
+          "name": "Geoserver",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "Elasticsearch",
+          "type": "technology"
+        },
+        {
+          "name": "Kibana",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "ArcGIS",
+          "type": "technology"
+        },
+        {
+          "name": "Oracle",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
