@@ -613,38 +613,6 @@
             ]
           }
         ]
-      },
-      {
-        "details": {
-          "name": "antipodes-map",
-          "description": "Repository with the data and code for the antipodes school map",
-          "URL": "https://github.com/geoinquietosvlc/antipodes-map"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2014-10-01",
-            "competences": [
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "PostgreSQL",
-                "type": "technology"
-              },
-              {
-                "name": "CARTO",
-                "type": "technology"
-              },
-              {
-                "name": "PostGIS",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
       }
     ],
     "publicArtifacts": [
