@@ -496,6 +496,30 @@
       },
       {
         "details": {
+          "name": "Geoinquietos Website",
+          "description": "A website to gather details of different local communities around geospatial topics (geoinquietos). This simple Jekylll website collects details for each group and individuals that manage them and presents them with a CARTO map.",
+          "URL": "https://geoinquietos.org/"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-07-01",
+            "competences": [
+              {
+                "name": "CARTO",
+                "type": "technology"
+              },
+              {
+                "name": "Jekyll",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "learnosm",
           "description": "LearnOSM\n\nI coordinated the translation of the [OSM Beginner's guide](http://learnosm.org/en/beginner/) into Spanish with a group of fellows. We used this fork to do all the job that was later pulled to the main repo and [published](http://learnosm.org/es/beginner/) for the general audience.",
           "URL": "https://github.com/geoinquietosvlc/learnosm"
