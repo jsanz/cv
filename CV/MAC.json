@@ -344,6 +344,7 @@
           {
             "name": "Developer",
             "startDate": "2012-12-01",
+            "finishDate": "2012-12-01",
             "competences": [
               {
                 "name": "Python",
