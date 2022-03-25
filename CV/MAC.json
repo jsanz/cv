@@ -540,6 +540,26 @@
       },
       {
         "details": {
+          "name": "Geomaticblog",
+          "description": "I started the geomatic blog with two friends in 2006 as a place to write about geospatial topics. Over the years the activity has been declining but we still keep it, and recently migrated from Wordpress to Hugo to ensure we can host it easily.",
+          "URL": "https://geomaticblog.net"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2006-08-01",
+            "competences": [
+              {
+                "name": "Google AdWords",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "15iacc",
           "description": "Work at the IACC Hackaton\n\nThis project was a small prototype developed during a 2.5 days hackaton in Brasilia (Brazil) at the [15IACC](http://15iacc.org/) conference. My main role was the development of the [website](http://geoinquietosvlc.github.io/15iacc/) that enclosed the 3D visualization and the presentation [slides](http://geoinquietosvlc.github.io/15iacc/slides/index.html#/frontpage) of the idea to the jury.",
           "URL": "https://github.com/geoinquietosvlc/15iacc"
