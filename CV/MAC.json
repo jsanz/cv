@@ -669,14 +669,6 @@
       },
       {
         "details": {
-          "name": "pgAdmin vs psql",
-          "URL": "https://gis.stackexchange.com/questions/90478/pgadmin-vs-psql/90495#90495"
-        },
-        "type": "post",
-        "publishingDate": "2014-03-01"
-      },
-      {
-        "details": {
           "name": "Setting up WMS with PostGIS, MapServer and Apache",
           "URL": "https://gis.stackexchange.com/questions/14987/setting-up-wms-with-postgis-mapserver-and-apache/14988#14988"
         },
