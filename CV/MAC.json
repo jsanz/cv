@@ -524,38 +524,6 @@
       },
       {
         "details": {
-          "name": "OSGeo-Live",
-          "description": "OSGeo-Live is a self-contained bootable DVD, USB thumb drive or Virtual Machine based on Xubuntu, that allows you to try a wide variety of open source geospatial software without installing anything. It is composed entirely of free software, allowing it to be freely distributed, duplicated and passed around.\n\nIt provides pre-configured applications for a range of geospatial use cases, including storage, publishing, viewing, analysis and manipulation of data. It also contains sample datasets and documentation.\n\nI work with two roles on this project:\n\n*   As the gvSIG package maintainer\n*   As one of the Spanish translation effort coordinator",
-          "URL": "http://live.osgeo.org/"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2022-03-25",
-            "competences": [
-              {
-                "name": "Debian",
-                "type": "technology"
-              },
-              {
-                "name": "gis",
-                "type": "technology"
-              },
-              {
-                "name": "osgeo",
-                "type": "technology"
-              },
-              {
-                "name": "xubuntu",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "learnosm",
           "description": "LearnOSM\n\nI coordinated the translation of the [OSM Beginner's guide](http://learnosm.org/en/beginner/) into Spanish with a group of fellows. We used this fork to do all the job that was later pulled to the main repo and [published](http://learnosm.org/es/beginner/) for the general audience.",
           "URL": "https://github.com/geoinquietosvlc/learnosm"
