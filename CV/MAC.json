@@ -357,20 +357,32 @@
         "details": {
           "name": "De casa al cole",
           "description": "Decision tool for teachers and education workers of the region of Valencia, Spain. The tool orders all education centers (with custom filters) by time travel from user postal code of choice.\n\nThis project was developed during a weekend hackathon with some friends. We developed also a mobile application with Cordova, not published yet.\n\nI processed the travel times using OSRM, configured the CartoDB backend and SQL API calls and the JavaScript glue code with this backend.",
-          "URL": "http://decasaalcole.com/"
+          "URL": "http://decasaalcole.com/",
+          "image": {
+            "alt": "logo110.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/f066b863-07e4-435e-ae71-016932612336_logo110.png"
+          }
         },
         "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2022-03-25",
+            "startDate": "2014-09-01",
             "competences": [
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
               {
                 "name": "Bootstrap",
                 "type": "technology"
               },
               {
                 "name": "Cordova",
+                "type": "technology"
+              },
+              {
+                "name": "CARTO",
                 "type": "technology"
               },
               {
@@ -382,15 +394,7 @@
                 "type": "technology"
               },
               {
-                "name": "cartodb",
-                "type": "technology"
-              },
-              {
-                "name": "openstreetmap",
-                "type": "technology"
-              },
-              {
-                "name": "open-source-routing-machine",
+                "name": "PostGIS",
                 "type": "technology"
               }
             ]
