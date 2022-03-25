@@ -627,14 +627,6 @@
       },
       {
         "details": {
-          "name": "Is it possible to render POIs/landmarks from Postgres/postgis DB using google Map like icons?",
-          "URL": "https://gis.stackexchange.com/questions/86831/is-it-possible-to-render-pois-landmarks-from-postgres-postgis-db-using-google-ma/86887#86887"
-        },
-        "type": "post",
-        "publishingDate": "2014-02-01"
-      },
-      {
-        "details": {
           "name": "OpenLayers Cookbook | geomaticblog — geomaticblog",
           "description": "I've been honoured to help Antonio to produce this book as a technical reviewer so I owe him at least a short note here (well in fact I promised him to do it!). Having the opportunity to review the…",
           "URL": "http://geomaticblog.net/2012/10/11/openlayers-cookbook/"
