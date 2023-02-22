@@ -9,7 +9,7 @@
       "name": "Jorge",
       "surnames": "Sanz",
       "title": "Geospatial Enthusiast",
-      "description": "I'm a technologist focused on geospatial topics: physical and digital maps, location services, geospatial databases. I have a strong bias towards Open Source and Open Data and I see myself as a generalist in the geospatial technology world.",
+      "description": "",
       "avatar": {
         "alt": "futurama.png",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/59c3e12e-939e-43e2-b758-670e1d97515c_dad4825f-de6c-474e-a.png"
@@ -628,13 +628,16 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan"
+        "name": "Catalan",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
@@ -696,6 +699,7 @@
         "finishDate": "2004-01-01",
         "institution": {
           "name": "Polytechnic University of Valencia",
+          "description": "",
           "image": {
             "alt": "download.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/ad23fbcf-cf2b-4940-ada5-8298e403e81d_a243dfbc-fda0-45e9-a.png"
@@ -732,6 +736,7 @@
         "finishDate": "2000-01-01",
         "institution": {
           "name": "Universidad Politécnica de Valencia",
+          "description": "",
           "image": {
             "alt": "download.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/77ea8f87-d3c4-46fa-a81f-41ff5d7ec7ba_9fe3df5f-2248-4ca2-8.png"
@@ -799,6 +804,7 @@
       "preferredRoles": [
         "Data Engineer"
       ]
-    }
+    },
+    "status": "openToOffers"
   }
 }
