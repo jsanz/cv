@@ -9,7 +9,7 @@
       "name": "Jorge",
       "surnames": "Sanz",
       "title": "Geospatial Enthusiast",
-      "description": "",
+      "description": "I'm a technologist focused on geospatial topics: physical and digital maps, location services, geospatial databases. I have a strong bias towards Open Source and Open Data and I see myself as a generalist in the geospatial technology world.",
       "avatar": {
         "alt": "futurama.png",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/59c3e12e-939e-43e2-b758-670e1d97515c_dad4825f-de6c-474e-a.png"
@@ -23,24 +23,16 @@
     },
     "relevantLinks": [
       {
-        "type": "other",
-        "URL": "http://links.jorgesanz.net"
-      },
-      {
         "type": "github",
         "URL": "https://github.com/jsanz"
       },
       {
+        "type": "other",
+        "URL": "https://jorgesanz.net"
+      },
+      {
         "type": "linkedin",
         "URL": "https://linkedin.com/in/jsanz"
-      },
-      {
-        "type": "other",
-        "URL": "https://stackoverflow.com/users/3647833/jorge-sanz"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/xurxosanz"
       }
     ],
     "interestingFacts": [
