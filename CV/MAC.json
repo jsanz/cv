@@ -9,7 +9,7 @@
       "name": "Jorge",
       "surnames": "Sanz",
       "title": "Geospatial Enthusiast",
-      "description": "I'm a technologist with more than 15 years of experience, focused on geospatial topics: physical and digital maps, location services, and geospatial databases. I have a strong bias towards Open Source and Open Data, and I see myself as a generalist in the geospatial technology world.",
+      "description": "I am a highly experienced technologist with over 15 years of dedicated expertise in geospatial technologies, specializing in digital maps, location services, and geospatial databases. My passion lies in advocating for Open Source and Open Data initiatives, making me a well-rounded professional in the field of geospatial technology.\n\nFor nearly a decade, I thrived in a dynamic consultancy firm, where I seamlessly transitioned between various roles, encompassing development, sales engineering, Open Source project coordination, and comprehensive documentation. This diverse experience equipped me with a broad skill set and a deep understanding of the industry.\n\nIn 2015, I transitioned into product companies, initially serving as a sales engineer and as a support manager. Since 2019, I have been an Individual Contributor at Elastic, honing my focus on mapping infrastructure and all aspects of geospatial technology. This role has allowed me to refine my expertise further and contribute to the product.",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/59c3e12e-939e-43e2-b758-670e1d97515c_dad4825f-de6c-474e-a.png",
         "alt": "futurama.png"
@@ -617,7 +617,7 @@
       },
       {
         "name": "EN",
-        "level": "Limited working proficiency"
+        "level": "Full professional proficiency"
       },
       {
         "name": "ES",
