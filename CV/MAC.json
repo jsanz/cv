@@ -687,6 +687,12 @@
       },
       {
         "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "openlayers",
           "type": "technology"
         }
