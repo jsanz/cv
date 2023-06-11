@@ -705,6 +705,12 @@
       },
       {
         "skill": {
+          "name": "Shellscript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "TypeScript",
           "type": "technology"
         }
