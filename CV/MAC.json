@@ -669,6 +669,12 @@
       },
       {
         "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "PostGIS",
           "type": "technology"
         }
