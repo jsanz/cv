@@ -675,6 +675,12 @@
       },
       {
         "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "MapBox",
           "type": "technology"
         }
