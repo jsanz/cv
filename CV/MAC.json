@@ -613,7 +613,7 @@
     "languages": [
       {
         "name": "CA",
-        "level": "Limited working proficiency"
+        "level": "Native or bilingual proficiency"
       },
       {
         "name": "EN",
@@ -890,6 +890,10 @@
   },
   "manfredSpecificData": {
     "mainStackTechs": [
+      {
+        "name": "Elasticsearch",
+        "type": "technology"
+      },
       {
         "name": "JavaScript",
         "type": "technology"
