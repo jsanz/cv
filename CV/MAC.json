@@ -891,6 +891,10 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
         "name": "Linux",
         "type": "technology"
       },
