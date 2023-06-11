@@ -897,6 +897,10 @@
       {
         "name": "PostgreSQL",
         "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
       }
     ],
     "desiredJobDescription": "I'd like to join a team of talented people that complement my skills, remote-friendly and with a healthy async culture. Ideally, the company/project would be focused on ESG topics, working and publishing in the open.  ",
