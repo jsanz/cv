@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,32 +9,18 @@
       "name": "Jorge",
       "surnames": "Sanz",
       "title": "Geospatial Enthusiast",
-      "description": "I'm a technologist focused on geospatial topics: physical and digital maps, location services, geospatial databases. I have a strong bias towards Open Source and Open Data and I see myself as a generalist in the geospatial technology world.",
+      "description": "I'm a technologist with more than 15 years of experience, focused on geospatial topics: physical and digital maps, location services, and geospatial databases. I have a strong bias towards Open Source and Open Data, and I see myself as a generalist in the geospatial technology world.",
       "avatar": {
-        "alt": "futurama.png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/59c3e12e-939e-43e2-b758-670e1d97515c_dad4825f-de6c-474e-a.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/59c3e12e-939e-43e2-b758-670e1d97515c_dad4825f-de6c-474e-a.png",
+        "alt": "futurama.png"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJb7Dv8ExPYA0ROR1_HwFRo7Q)",
         "country": "España",
         "region": "Comunidad Valenciana",
-        "municipality": "Valencia",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Valencia"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/jsanz"
-      },
-      {
-        "type": "other",
-        "URL": "https://jorgesanz.net"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://linkedin.com/in/jsanz"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "Sailing",
@@ -44,6 +30,12 @@
         "topic": "First computer",
         "fact": "PC 8086, but I did my first real development of some surveying algorithms on a Casio FX880P calculator."
       }
+    ],
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://jorgesanz.net"
+      }
     ]
   },
   "experience": {
@@ -52,8 +44,8 @@
         "organization": {
           "name": "Elastic",
           "image": {
-            "alt": "elastic-logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/0f4a1a80-728f-4a94-b030-90657535abf0_e028ad67-c2f2-48c9-8.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/0f4a1a80-728f-4a94-b030-90657535abf0_e028ad67-c2f2-48c9-8.png",
+            "alt": "elastic-logo.png"
           },
           "URL": "https://elastic.co/geospatial"
         },
@@ -99,8 +91,8 @@
         "organization": {
           "name": "CARTO",
           "image": {
-            "alt": "CARTO",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/db0736bc-1a77-4d48-8c71-b5c637c6314d_54ff8c71-180c-41cf-b.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/db0736bc-1a77-4d48-8c71-b5c637c6314d_54ff8c71-180c-41cf-b.jpg",
+            "alt": "CARTO"
           },
           "URL": "https://carto.com"
         },
@@ -167,8 +159,8 @@
         "organization": {
           "name": "CARTO",
           "image": {
-            "alt": "CARTO",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/43430cc9-5d16-499e-919c-d8365c16db73_64d84f73-5771-42de-b.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/43430cc9-5d16-499e-919c-d8365c16db73_64d84f73-5771-42de-b.jpg",
+            "alt": "CARTO"
           },
           "URL": "https://carto.com"
         },
@@ -219,8 +211,8 @@
         "organization": {
           "name": "gvSIG Association",
           "image": {
-            "alt": "download.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/41ae2309-97b4-4445-8a3b-56132e57de1c_8580d2e1-3eb7-4d14-a.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/41ae2309-97b4-4445-8a3b-56132e57de1c_8580d2e1-3eb7-4d14-a.jpeg",
+            "alt": "download.jpeg"
           },
           "URL": "https://gvsig.com"
         },
@@ -241,8 +233,8 @@
         "organization": {
           "name": "Prodevelop",
           "image": {
-            "alt": "logo_prode_160x50.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/24943202-e24d-48f4-807b-f8d44b2cbb68_5db676eb-57bb-4681-a.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/24943202-e24d-48f4-807b-f8d44b2cbb68_5db676eb-57bb-4681-a.png",
+            "alt": "logo_prode_160x50.png"
           }
         },
         "roles": [
@@ -308,8 +300,8 @@
         "organization": {
           "name": "Polithecnic University of Valencia",
           "image": {
-            "alt": "download.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/0df0af82-3f95-4cf4-bcbd-e4b8162e97cf_9cb8b7b0-9521-497e-8.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/0df0af82-3f95-4cf4-bcbd-e4b8162e97cf_9cb8b7b0-9521-497e-8.png",
+            "alt": "download.png"
           },
           "URL": "http://upv.es"
         },
@@ -330,25 +322,96 @@
     "projects": [
       {
         "details": {
-          "name": "PostGIS Day website",
-          "description": "Static website to gather internet activity around the celebration of the PostGIS day.\n\nCoding, layout and most of the content with help of other geofolks.",
-          "URL": "https://postgisday.rocks/"
+          "name": "JOSM, TileMill, MapProxy Workshop",
+          "description": "Training materials for a workshop given in an Open Source for Geospatial Spanish conference. In Spanish.\n\nPreparation and lecturing of MapProxy and ImpOSM parts, review with the rest with the other lecturer.",
+          "URL": "https://github.com/geoinquietosvlc/josm-imposm-tilemill-workshop"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-02-01",
+            "finishDate": "2014-02-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Geoinquietos Website",
+          "description": "A website to gather details of different local communities around geospatial topics (geoinquietos). This simple Jekylll website collects details for each group and individuals that manage them and presents them with a CARTO map.",
+          "URL": "https://geoinquietos.org/"
         },
         "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2014-11-01",
+            "startDate": "2014-07-01",
             "competences": [
+              {
+                "name": "CARTO",
+                "type": "technology"
+              },
+              {
+                "name": "Jekyll",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "learnosm",
+          "description": "LearnOSM\n\nI coordinated the translation of the [OSM Beginner's guide](http://learnosm.org/en/beginner/) into Spanish with a group of fellows. We used this fork to do all the job that was later pulled to the main repo and [published](http://learnosm.org/es/beginner/) for the general audience.",
+          "URL": "https://github.com/geoinquietosvlc/learnosm"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2013-03-01",
+            "finishDate": "2015-03-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "2008 Climate visualization",
+          "description": "Visualization of climate data for 2008, using modern webmapping technologies and techniques developed as a weekend/hackathon like project as a task to apply to a large mapping company job offering.\n\nSolo project",
+          "URL": "http://climate-viz.jorgesanz.net/"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-08-01",
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
               {
                 "name": "Bootstrap",
                 "type": "technology"
               },
               {
-                "name": "JavaScript",
+                "name": "CARTO",
+                "type": "technology"
+              },
+              {
+                "name": "D3",
+                "type": "technology"
+              },
+              {
+                "name": "Jekyll",
+                "type": "technology"
+              },
+              {
+                "name": "Leaflet",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2014-09-01"
           }
         ]
       },
@@ -358,8 +421,8 @@
           "description": "Decision tool for teachers and education workers of the region of Valencia, Spain. The tool orders all education centers (with custom filters) by time travel from user postal code of choice.\n\nThis project was developed during a weekend hackathon with some friends. We developed also a mobile application with Cordova, not published yet.\n\nI processed the travel times using OSRM, configured the CartoDB backend and SQL API calls and the JavaScript glue code with this backend.",
           "URL": "http://decasaalcole.com/",
           "image": {
-            "alt": "logo110.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/4c940879-f4fa-4d0b-bed1-6baae036a034_f066b863-07e4-435e-a.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/4c940879-f4fa-4d0b-bed1-6baae036a034_f066b863-07e4-435e-a.png",
+            "alt": "logo110.png"
           }
         },
         "type": "sideProject",
@@ -402,25 +465,92 @@
       },
       {
         "details": {
-          "name": "Geoinquietos Website",
-          "description": "A website to gather details of different local communities around geospatial topics (geoinquietos). This simple Jekylll website collects details for each group and individuals that manage them and presents them with a CARTO map.",
-          "URL": "https://geoinquietos.org/"
+          "name": "PostGIS Day website",
+          "description": "Static website to gather internet activity around the celebration of the PostGIS day.\n\nCoding, layout and most of the content with help of other geofolks.",
+          "URL": "https://postgisday.rocks/"
         },
         "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2014-07-01",
+            "startDate": "2014-11-01",
             "competences": [
               {
-                "name": "CARTO",
+                "name": "Bootstrap",
                 "type": "technology"
               },
               {
-                "name": "Jekyll",
+                "name": "JavaScript",
                 "type": "technology"
               }
             ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "opengeo-workshops",
+          "description": "Workshop materials for the Open Source Oportunities in GIS Summer School 2013\n\nThose materials are adapted from awesome [OpenGeo materials](http://workshops.opengeo.org/) for the Girona Summer school. I worked with a colleague to adapt and lecture a group with a really diverse background on geospatial techs",
+          "URL": "https://github.com/jsanz/opengeo-workshops"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2013-07-01",
+            "competences": [
+              {
+                "name": "Geoserver",
+                "type": "technology"
+              },
+              {
+                "name": "PostGIS",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2013-08-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "15iacc",
+          "description": "Work at the IACC Hackaton\n\nThis project was a small prototype developed during a 2.5 days hackaton in Brasilia (Brazil) at the [15IACC](http://15iacc.org/) conference. My main role was the development of the [website](http://geoinquietosvlc.github.io/15iacc/) that enclosed the 3D visualization and the presentation [slides](http://geoinquietosvlc.github.io/15iacc/slides/index.html#/frontpage) of the idea to the jury.",
+          "URL": "https://github.com/geoinquietosvlc/15iacc"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2012-11-01",
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2008-11-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "mapproxy-workshop",
+          "description": "MapProxy Workshop\n\nMaterials in Spanish for a 4 hours workshop about [MapProxy](http://geoinquietosvlc.github.io/15iacc/slides/index.html#/frontpage) with complete examples and further ideas to let the user explore the amazing features of this great software.",
+          "URL": "https://github.com/geoinquietosvlc/mapproxy-workshop"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2012-12-01",
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2012-12-01"
           }
         ]
       },
@@ -455,7 +585,6 @@
           {
             "name": "Developer",
             "startDate": "2014-12-01",
-            "finishDate": "2014-12-01",
             "competences": [
               {
                 "name": "Bootstrap",
@@ -473,145 +602,8 @@
                 "name": "jQuery",
                 "type": "technology"
               }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "2008 Climate visualization",
-          "description": "Visualization of climate data for 2008, using modern webmapping technologies and techniques developed as a weekend/hackathon like project as a task to apply to a large mapping company job offering.\n\nSolo project",
-          "URL": "http://climate-viz.jorgesanz.net/"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2014-08-01",
-            "finishDate": "2014-09-01",
-            "competences": [
-              {
-                "name": "AWS",
-                "type": "technology"
-              },
-              {
-                "name": "Bootstrap",
-                "type": "technology"
-              },
-              {
-                "name": "CARTO",
-                "type": "technology"
-              },
-              {
-                "name": "D3",
-                "type": "technology"
-              },
-              {
-                "name": "Jekyll",
-                "type": "technology"
-              },
-              {
-                "name": "Leaflet",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "JOSM, TileMill, MapProxy Workshop",
-          "description": "Training materials for a workshop given in an Open Source for Geospatial Spanish conference. In Spanish.\n\nPreparation and lecturing of MapProxy and ImpOSM parts, review with the rest with the other lecturer.",
-          "URL": "https://github.com/geoinquietosvlc/josm-imposm-tilemill-workshop"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2014-02-01",
-            "finishDate": "2014-02-01"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "opengeo-workshops",
-          "description": "Workshop materials for the Open Source Oportunities in GIS Summer School 2013\n\nThose materials are adapted from awesome [OpenGeo materials](http://workshops.opengeo.org/) for the Girona Summer school. I worked with a colleague to adapt and lecture a group with a really diverse background on geospatial techs",
-          "URL": "https://github.com/jsanz/opengeo-workshops"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2013-07-01",
-            "finishDate": "2013-08-01",
-            "competences": [
-              {
-                "name": "Geoserver",
-                "type": "technology"
-              },
-              {
-                "name": "PostGIS",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "learnosm",
-          "description": "LearnOSM\n\nI coordinated the translation of the [OSM Beginner's guide](http://learnosm.org/en/beginner/) into Spanish with a group of fellows. We used this fork to do all the job that was later pulled to the main repo and [published](http://learnosm.org/es/beginner/) for the general audience.",
-          "URL": "https://github.com/geoinquietosvlc/learnosm"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2013-03-01",
-            "finishDate": "2015-03-01"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "mapproxy-workshop",
-          "description": "MapProxy Workshop\n\nMaterials in Spanish for a 4 hours workshop about [MapProxy](http://geoinquietosvlc.github.io/15iacc/slides/index.html#/frontpage) with complete examples and further ideas to let the user explore the amazing features of this great software.",
-          "URL": "https://github.com/geoinquietosvlc/mapproxy-workshop"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2012-12-01",
-            "finishDate": "2012-12-01",
-            "competences": [
-              {
-                "name": "Python",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "15iacc",
-          "description": "Work at the IACC Hackaton\n\nThis project was a small prototype developed during a 2.5 days hackaton in Brasilia (Brazil) at the [15IACC](http://15iacc.org/) conference. My main role was the development of the [website](http://geoinquietosvlc.github.io/15iacc/) that enclosed the 3D visualization and the presentation [slides](http://geoinquietosvlc.github.io/15iacc/slides/index.html#/frontpage) of the idea to the jury.",
-          "URL": "https://github.com/geoinquietosvlc/15iacc"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2012-11-01",
-            "finishDate": "2008-11-01",
-            "competences": [
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              }
-            ]
+            ],
+            "finishDate": "2014-12-01"
           }
         ]
       }
@@ -620,22 +612,22 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan",
+        "name": "CA",
         "level": "Limited working proficiency"
       },
       {
-        "name": "English",
+        "name": "EN",
         "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Python",
+          "name": "Elasticsearch",
           "type": "technology"
         }
       },
@@ -647,19 +639,13 @@
       },
       {
         "skill": {
-          "name": "PostgreSQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Elasticsearch",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Kibana",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MapBox",
           "type": "technology"
         }
       },
@@ -671,13 +657,19 @@
       },
       {
         "skill": {
-          "name": "openlayers",
+          "name": "PostgreSQL",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "MapBox",
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "openlayers",
           "type": "technology"
         }
       }
@@ -686,17 +678,36 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "M.S.E. in Geodesy and Cartography",
-        "startDate": "2001-01-01",
-        "finishDate": "2004-01-01",
+        "name": "B.S.E. in Surveying",
+        "startDate": "1997-01-01",
         "institution": {
-          "name": "Polytechnic University of Valencia",
-          "description": "",
+          "name": "Universidad Politécnica de Valencia",
           "image": {
-            "alt": "download.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/ad23fbcf-cf2b-4940-ada5-8298e403e81d_a243dfbc-fda0-45e9-a.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/77ea8f87-d3c4-46fa-a81f-41ff5d7ec7ba_9fe3df5f-2248-4ca2-8.png",
+            "alt": "download.png"
           }
         },
+        "finishDate": "2000-01-01",
+        "linkedCompetences": [
+          {
+            "name": "Autocad",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "M.S.E. in Geodesy and Cartography",
+        "startDate": "2001-01-01",
+        "institution": {
+          "name": "Polytechnic University of Valencia",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/ad23fbcf-cf2b-4940-ada5-8298e403e81d_a243dfbc-fda0-45e9-a.png",
+            "alt": "download.png"
+          }
+        },
+        "finishDate": "2004-01-01",
         "linkedCompetences": [
           {
             "name": "ArcGIS",
@@ -719,27 +730,26 @@
             "type": "technology"
           }
         ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Continuous learning",
+          "type": "practice"
+        }
       },
       {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "B.S.E. in Surveying",
-        "startDate": "1997-01-01",
-        "finishDate": "2000-01-01",
-        "institution": {
-          "name": "Universidad Politécnica de Valencia",
-          "description": "",
-          "image": {
-            "alt": "download.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/77ea8f87-d3c4-46fa-a81f-41ff5d7ec7ba_9fe3df5f-2248-4ca2-8.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Autocad",
-            "type": "technology"
-          }
-        ]
+        "skill": {
+          "name": "Good presentation skills",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Team player",
+          "type": "practice"
+        }
       }
     ]
   },
@@ -747,8 +757,21 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://linkedin.com/in/jsanz"
+          "URL": "https://linkedin.com/in/jsanz",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/jsanz",
+          "type": "other"
+        }
+      ],
+      "contactMails": [
+        "jorge@jorgesanz.net"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "688922447",
+          "countryCode": "+34"
         }
       ]
     },
@@ -798,5 +821,43 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "I'd like to join a team of talented people that complement my skills, remote-friendly and with a healthy async culture. Ideally, the company/project would be focused on ESG topics, working and publishing in the open.  ",
+    "projects": [
+      {
+        "name": "15iacc"
+      },
+      {
+        "name": "2008 Climate visualization"
+      },
+      {
+        "name": "Antipodes ES/NZ School Map"
+      },
+      {
+        "name": "De casa al cole"
+      },
+      {
+        "name": "Geoinquietos Website"
+      },
+      {
+        "name": "Geomaticblog"
+      },
+      {
+        "name": "JOSM, TileMill, MapProxy Workshop"
+      },
+      {
+        "name": "PostGIS Day website"
+      },
+      {
+        "name": "learnosm"
+      },
+      {
+        "name": "mapproxy-workshop"
+      },
+      {
+        "name": "opengeo-workshops"
+      }
+    ]
   }
 }
