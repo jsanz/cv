@@ -889,6 +889,12 @@
     "status": "openToOffers"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "PostgreSQL",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "I'd like to join a team of talented people that complement my skills, remote-friendly and with a healthy async culture. Ideally, the company/project would be focused on ESG topics, working and publishing in the open.  ",
     "goodPractices": "I believe in, patience, communication, goodwill, and empathy as the primary best practices that can be applied to any aspect of our work. Leaving an explicit mark of what we are doing (as tests, documentation, meeting notes) in a consistent way that makes finding things easy and evident for anyone on the team. I like to think that I'm pretty much \"easy to follow\" on how I work and \"easy to approach\" to get help about anything.",
     "projects": [
