@@ -627,6 +627,12 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Elasticsearch",
           "type": "technology"
         }
@@ -658,6 +664,12 @@
       {
         "skill": {
           "name": "Kibana",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
           "type": "technology"
         }
       },
