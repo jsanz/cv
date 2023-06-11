@@ -891,6 +891,10 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "Linux",
+        "type": "technology"
+      },
+      {
         "name": "PostgreSQL",
         "type": "technology"
       }
