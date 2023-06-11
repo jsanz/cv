@@ -639,6 +639,12 @@
       },
       {
         "skill": {
+          "name": "J2EE",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "JAVA",
           "type": "technology"
         }
