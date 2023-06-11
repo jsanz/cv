@@ -645,6 +645,12 @@
       },
       {
         "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "J2EE",
           "type": "technology"
         }
