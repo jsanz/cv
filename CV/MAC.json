@@ -633,6 +633,12 @@
       },
       {
         "skill": {
+          "name": "Geoserver",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "JavaScript",
           "type": "technology"
         }
