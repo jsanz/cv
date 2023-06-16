@@ -163,12 +163,12 @@
             "finishDate": "2015-12-31",
             "challenges": [
               {
-                "description": "Working as a solutions engineer, I help clients and CARTO partners to get the highest profit of the platform."
+                "description": "* Pre-sales engineer\n* Developing proofs of concepts, testing integrations, etc.\n* Talks and training sessions at all kinds of events about CARTO technologies, Open Data, etc\n* Support and training to partners and enterprise customers"
               }
             ],
             "competences": [
               {
-                "name": "CSS",
+                "name": "CARTO",
                 "type": "technology"
               },
               {
