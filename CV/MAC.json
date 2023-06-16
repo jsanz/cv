@@ -55,7 +55,7 @@
             "startDate": "2019-09-01",
             "challenges": [
               {
-                "description": "GIS engineer working in the Kibana Maps team and focused in the Elastic Maps Service, but also contributing to Elastic Maps development with testing, feature validation, community outreach, technical writing, and more."
+                "description": "* Data engineering for the Elastic Application Experience (Kibana) team\n* Testing, and minor contributions in code and documentation to the Kibana Maps application \n* Maintenance of the different EMS software components: data pipeline, basemaps, website\n* Curating geospatial datasets for the Elastic Maps Service (EMS)\n* Development and maintenance of the EMS offline offering as a Docker image "
               }
             ],
             "competences": [
@@ -68,7 +68,15 @@
                 "type": "technology"
               },
               {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
                 "name": "Kibana",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
                 "type": "technology"
               },
               {
@@ -76,7 +84,11 @@
                 "type": "technology"
               },
               {
-                "name": "Shell",
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
                 "type": "technology"
               },
               {
