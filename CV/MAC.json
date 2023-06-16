@@ -115,20 +115,12 @@
             "finishDate": "2019-07-31",
             "challenges": [
               {
-                "description": "Managing the Support team and working also at the Engineering and Pre-Sales teams at CARTO Solutions."
+                "description": "Extending my previous role now also managing a team of up to 7 support engineers split between the United States and Spain, covering a wide range of SME and enterprise customers."
               }
             ],
             "competences": [
               {
                 "name": "CARTO",
-                "type": "technology"
-              },
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
                 "type": "technology"
               },
               {
@@ -149,18 +141,6 @@
               },
               {
                 "name": "SQL",
-                "type": "technology"
-              },
-              {
-                "name": "cartocss",
-                "type": "technology"
-              },
-              {
-                "name": "mapnik",
-                "type": "technology"
-              },
-              {
-                "name": "turbocarto",
                 "type": "technology"
               }
             ]
