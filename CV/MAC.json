@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "EN",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -32,6 +32,14 @@
       }
     ],
     "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/jsanz"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/jsanz"
+      },
       {
         "type": "other",
         "URL": "https://jorgesanz.net"
@@ -190,10 +198,6 @@
               {
                 "name": "SQL",
                 "type": "technology"
-              },
-              {
-                "name": "cartodb",
-                "type": "technology"
               }
             ]
           }
@@ -249,7 +253,7 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -314,74 +318,16 @@
     "projects": [
       {
         "details": {
-          "name": "JOSM, TileMill, MapProxy Workshop",
-          "description": "Training materials for a workshop given in an Open Source for Geospatial Spanish conference. In Spanish.\n\nPreparation and lecturing of MapProxy and ImpOSM parts, review with the rest with the other lecturer.",
-          "URL": "https://github.com/geoinquietosvlc/josm-imposm-tilemill-workshop"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2014-02-01",
-            "finishDate": "2014-02-01"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Geoinquietos Website",
-          "description": "A website to gather details of different local communities around geospatial topics (geoinquietos). This simple Jekylll website collects details for each group and individuals that manage them and presents them with a CARTO map.",
-          "URL": "https://geoinquietos.org/"
+          "name": "Antipodes ES/NZ School Map",
+          "description": "Tool for kids and educators from Spain and New Zealand to get in touch. For any school the tool shows their counterpart in the other part of the world.\n\nI developed the front-end of the application with OL3 integrating it with the vizjson produced by the Maps API of CartoDB to load dinamically the layers defined at CartoDB as well as using the SQL API to perform several requests to CartoDB datasets.",
+          "URL": "http://antipodes.decasaalcole.com/"
         },
         "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2014-07-01",
+            "startDate": "2014-12-01",
             "competences": [
-              {
-                "name": "CARTO",
-                "type": "technology"
-              },
-              {
-                "name": "Jekyll",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "learnosm",
-          "description": "LearnOSM\n\nI coordinated the translation of the [OSM Beginner's guide](http://learnosm.org/en/beginner/) into Spanish with a group of fellows. We used this fork to do all the job that was later pulled to the main repo and [published](http://learnosm.org/es/beginner/) for the general audience.",
-          "URL": "https://github.com/geoinquietosvlc/learnosm"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2013-03-01",
-            "finishDate": "2015-03-01"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "2008 Climate visualization",
-          "description": "Visualization of climate data for 2008, using modern webmapping technologies and techniques developed as a weekend/hackathon like project as a task to apply to a large mapping company job offering.\n\nSolo project",
-          "URL": "http://climate-viz.jorgesanz.net/"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2014-08-01",
-            "competences": [
-              {
-                "name": "AWS",
-                "type": "technology"
-              },
               {
                 "name": "Bootstrap",
                 "type": "technology"
@@ -391,19 +337,39 @@
                 "type": "technology"
               },
               {
-                "name": "D3",
+                "name": "SQL",
                 "type": "technology"
               },
               {
-                "name": "Jekyll",
-                "type": "technology"
-              },
-              {
-                "name": "Leaflet",
+                "name": "jQuery",
                 "type": "technology"
               }
             ],
-            "finishDate": "2014-09-01"
+            "finishDate": "2014-12-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "PostGIS Day website",
+          "description": "Static website to gather internet activity around the celebration of the PostGIS day.\n\nCoding, layout and most of the content with help of other geofolks.",
+          "URL": "https://postgisday.rocks/"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-11-01",
+            "competences": [
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
           }
         ]
       },
@@ -457,25 +423,81 @@
       },
       {
         "details": {
-          "name": "PostGIS Day website",
-          "description": "Static website to gather internet activity around the celebration of the PostGIS day.\n\nCoding, layout and most of the content with help of other geofolks.",
-          "URL": "https://postgisday.rocks/"
+          "name": "2008 Climate visualization",
+          "description": "Visualization of climate data for 2008, using modern webmapping technologies and techniques developed as a weekend/hackathon like project as a task to apply to a large mapping company job offering.\n\nSolo project",
+          "URL": "http://climate-viz.jorgesanz.net/"
         },
         "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2014-11-01",
+            "startDate": "2014-08-01",
             "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
               {
                 "name": "Bootstrap",
                 "type": "technology"
               },
               {
-                "name": "JavaScript",
+                "name": "CARTO",
+                "type": "technology"
+              },
+              {
+                "name": "D3",
+                "type": "technology"
+              },
+              {
+                "name": "Jekyll",
+                "type": "technology"
+              },
+              {
+                "name": "Leaflet",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2014-09-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Geoinquietos Website",
+          "description": "A website to gather details of different local communities around geospatial topics (geoinquietos). This simple Jekylll website collects details for each group and individuals that manage them and presents them with a CARTO map.",
+          "URL": "https://geoinquietos.org/"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-07-01",
+            "competences": [
+              {
+                "name": "CARTO",
+                "type": "technology"
+              },
+              {
+                "name": "Jekyll",
                 "type": "technology"
               }
             ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "JOSM, TileMill, MapProxy Workshop",
+          "description": "Training materials for a workshop given in an Open Source for Geospatial Spanish conference. In Spanish.\n\nPreparation and lecturing of MapProxy and ImpOSM parts, review with the rest with the other lecturer.",
+          "URL": "https://github.com/geoinquietosvlc/josm-imposm-tilemill-workshop"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-02-01",
+            "finishDate": "2014-02-01"
           }
         ]
       },
@@ -506,22 +528,16 @@
       },
       {
         "details": {
-          "name": "15iacc",
-          "description": "Work at the IACC Hackaton\n\nThis project was a small prototype developed during a 2.5 days hackaton in Brasilia (Brazil) at the [15IACC](http://15iacc.org/) conference. My main role was the development of the [website](http://geoinquietosvlc.github.io/15iacc/) that enclosed the 3D visualization and the presentation [slides](http://geoinquietosvlc.github.io/15iacc/slides/index.html#/frontpage) of the idea to the jury.",
-          "URL": "https://github.com/geoinquietosvlc/15iacc"
+          "name": "learnosm",
+          "description": "LearnOSM\n\nI coordinated the translation of the [OSM Beginner's guide](http://learnosm.org/en/beginner/) into Spanish with a group of fellows. We used this fork to do all the job that was later pulled to the main repo and [published](http://learnosm.org/es/beginner/) for the general audience.",
+          "URL": "https://github.com/geoinquietosvlc/learnosm"
         },
         "type": "openSource",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2012-11-01",
-            "competences": [
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              }
-            ],
-            "finishDate": "2008-11-01"
+            "startDate": "2013-03-01",
+            "finishDate": "2015-03-01"
           }
         ]
       },
@@ -548,6 +564,27 @@
       },
       {
         "details": {
+          "name": "15iacc",
+          "description": "Work at the IACC Hackaton\n\nThis project was a small prototype developed during a 2.5 days hackaton in Brasilia (Brazil) at the [15IACC](http://15iacc.org/) conference. My main role was the development of the [website](http://geoinquietosvlc.github.io/15iacc/) that enclosed the 3D visualization and the presentation [slides](http://geoinquietosvlc.github.io/15iacc/slides/index.html#/frontpage) of the idea to the jury.",
+          "URL": "https://github.com/geoinquietosvlc/15iacc"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2012-11-01",
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2008-11-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Geomaticblog",
           "description": "I started the geomatic blog with two friends in 2006 as a place to write about geospatial topics. Over the years the activity has been declining but we still keep it, and recently migrated from Wordpress to Hugo to ensure we can host it easily.",
           "URL": "https://geomaticblog.net"
@@ -559,43 +596,10 @@
             "startDate": "2006-08-01",
             "competences": [
               {
-                "name": "Google AdWords",
+                "name": "Google Ads",
                 "type": "technology"
               }
             ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Antipodes ES/NZ School Map",
-          "description": "Tool for kids and educators from Spain and New Zealand to get in touch. For any school the tool shows their counterpart in the other part of the world.\n\nI developed the front-end of the application with OL3 integrating it with the vizjson produced by the Maps API of CartoDB to load dinamically the layers defined at CartoDB as well as using the SQL API to perform several requests to CartoDB datasets.",
-          "URL": "http://antipodes.decasaalcole.com/"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2014-12-01",
-            "competences": [
-              {
-                "name": "Bootstrap",
-                "type": "technology"
-              },
-              {
-                "name": "CARTO",
-                "type": "technology"
-              },
-              {
-                "name": "SQL",
-                "type": "technology"
-              },
-              {
-                "name": "jQuery",
-                "type": "technology"
-              }
-            ],
-            "finishDate": "2014-12-01"
           }
         ]
       }
@@ -605,14 +609,17 @@
     "languages": [
       {
         "name": "CA",
+        "fullName": "Catalán / Valenciano",
         "level": "Native or bilingual proficiency"
       },
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Full professional proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -655,7 +662,7 @@
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         }
       },
@@ -776,7 +783,7 @@
             "type": "technology"
           },
           {
-            "name": "JAVA",
+            "name": "Java",
             "type": "technology"
           },
           {
@@ -820,16 +827,7 @@
         },
         {
           "URL": "https://github.com/jsanz",
-          "type": "other"
-        }
-      ],
-      "contactMails": [
-        "jorge@jorgesanz.net"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "688922447",
-          "countryCode": "+34"
+          "type": "github"
         }
       ]
     },
